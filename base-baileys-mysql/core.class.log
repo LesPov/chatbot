@@ -2,44 +2,26 @@
   key: {
     remoteJid: '573134002789@s.whatsapp.net',
     fromMe: false,
-    id: 'C41532E9CC08ECF9AD9C3B916CE79125',
+    id: '2D212FCFF4507709F4',
     participant: undefined
   },
-  messageTimestamp: 1725771758,
+  messageTimestamp: 1725868854,
   pushName: 'mariac19martinezp68',
   broadcast: false,
   message: Message {
-    conversation: 'Hola',
+    extendedTextMessage: ExtendedTextMessage { text: 'JJJ', contextInfo: [ContextInfo] },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Hola',
+  body: 'JJJ',
   from: '573134002789'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_01dda1a4-738a-4f6a-839f-4549e8b0cd05',
-  keyword: 'key_5a8bb3e5-64ab-4e11-9f4a-44e721cec638',
-  answer: '🙌 Hola, bienvenido a este *Chatbot*! Espera un momento mientras validamos tu información.',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'efd0c63a9a35ae000ea025b596777ea7'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_e494999e-37fd-4c02-8156-82ce62c3c28f',
-  keyword: 'ans_01dda1a4-738a-4f6a-839f-4549e8b0cd05',
-  answer: 'Verificando tu número...',
+  ref: 'ans_27b8419d-abe0-46e9-9ac1-5113ba6da0c0',
+  keyword: 'key_48de418e-680f-46f8-8a88-426efb7999d2',
+  answer: 'Verificando si tu usuario está registrado...',
   options: {
     media: null,
     buttons: [],
@@ -52,5 +34,592 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'a4e7c9e70f4984012af620cd3be7a694'
+  refSerialize: 'fb49625de41f962a47082e06490f6956'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134002789@s.whatsapp.net',
+    fromMe: false,
+    id: 'D59644462644E4F2FB',
+    participant: undefined
+  },
+  messageTimestamp: 1725868874,
+  pushName: 'mariac19martinezp68',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'K', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'K',
+  from: '573134002789'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_27b8419d-abe0-46e9-9ac1-5113ba6da0c0',
+  keyword: 'key_48de418e-680f-46f8-8a88-426efb7999d2',
+  answer: 'Verificando si tu usuario está registrado...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fb49625de41f962a47082e06490f6956'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573123889338@s.whatsapp.net',
+    fromMe: false,
+    id: '98DDFC041E77D3A0AFEF36B4C0118874',
+    participant: undefined
+  },
+  messageTimestamp: 1725880279,
+  pushName: 'santhy784',
+  broadcast: false,
+  message: Message {
+    conversation: 'Oe',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Oe',
+  from: '573123889338'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573123889338@s.whatsapp.net',
+    fromMe: false,
+    id: 'F92B00E83E46CEDE54034233AD30536D',
+    participant: undefined
+  },
+  messageTimestamp: 1725880281,
+  pushName: 'santhy784',
+  broadcast: false,
+  message: Message {
+    conversation: 'Oe',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Oe',
+  from: '573123889338'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_27b8419d-abe0-46e9-9ac1-5113ba6da0c0',
+  keyword: 'key_48de418e-680f-46f8-8a88-426efb7999d2',
+  answer: 'Verificando si tu usuario está registrado...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fb49625de41f962a47082e06490f6956'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573123889338@s.whatsapp.net',
+    fromMe: false,
+    id: '02DE345E8AA27A2584E10F68E0BB12AF',
+    participant: undefined
+  },
+  messageTimestamp: 1725880282,
+  pushName: 'santhy784',
+  broadcast: false,
+  message: Message {
+    conversation: 'Oe',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Oe',
+  from: '573123889338'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_27b8419d-abe0-46e9-9ac1-5113ba6da0c0',
+  keyword: 'key_48de418e-680f-46f8-8a88-426efb7999d2',
+  answer: 'Verificando si tu usuario está registrado...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fb49625de41f962a47082e06490f6956'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_27b8419d-abe0-46e9-9ac1-5113ba6da0c0',
+  keyword: 'key_48de418e-680f-46f8-8a88-426efb7999d2',
+  answer: 'Verificando si tu usuario está registrado...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fb49625de41f962a47082e06490f6956'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573243902654@s.whatsapp.net',
+    fromMe: false,
+    id: '37C2B1092B59412CB6308FC3508E47CC',
+    participant: undefined
+  },
+  messageTimestamp: 1725881800,
+  pushName: 'Alba',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola estaba dormida a esa hora leo no yo las tire todas a la basura hace mucho',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola estaba dormida a esa hora leo no yo las tire todas a la basura hace mucho',
+  from: '573243902654'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_38869bc8-afd1-43b7-867b-d4fa37ec7430',
+  keyword: 'key_a08f84c3-47fe-449e-b931-a8f0040c171c',
+  answer: '🙌 Hola, bienvenido a este *Chatbot*! Estamos verificando tu información, por favor espera un momento.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '64fe57679148e437cba6a1a69ac67607'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3c2b421a-bafc-4b41-b78c-5cd2d59d6626',
+  keyword: 'ans_38869bc8-afd1-43b7-867b-d4fa37ec7430',
+  answer: 'Estamos validando tu número de teléfono...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '5f7bd40828994ec07fb7fad510bcee93'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573226152932@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02D4BB34A4C04556977',
+    participant: undefined
+  },
+  messageTimestamp: 1725890797,
+  pushName: 'Kelly Vidal',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola nene',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola nene',
+  from: '573226152932'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573226152932@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB026B62641A26AB233DF',
+    participant: undefined
+  },
+  messageTimestamp: 1725890798,
+  pushName: 'Kelly Vidal',
+  broadcast: false,
+  message: Message {
+    conversation: 'buenos dias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'buenos dias',
+  from: '573226152932'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_38869bc8-afd1-43b7-867b-d4fa37ec7430',
+  keyword: 'key_a08f84c3-47fe-449e-b931-a8f0040c171c',
+  answer: '🙌 Hola, bienvenido a este *Chatbot*! Estamos verificando tu información, por favor espera un momento.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '64fe57679148e437cba6a1a69ac67607'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_27b8419d-abe0-46e9-9ac1-5113ba6da0c0',
+  keyword: 'key_48de418e-680f-46f8-8a88-426efb7999d2',
+  answer: 'Verificando si tu usuario está registrado...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fb49625de41f962a47082e06490f6956'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573226152932@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06ABA3268BE95CEDE19',
+    participant: undefined
+  },
+  messageTimestamp: 1725890800,
+  pushName: 'Kelly Vidal',
+  broadcast: false,
+  message: Message {
+    conversation: 'como vas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'como vas',
+  from: '573226152932'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3c2b421a-bafc-4b41-b78c-5cd2d59d6626',
+  keyword: 'ans_38869bc8-afd1-43b7-867b-d4fa37ec7430',
+  answer: 'Estamos validando tu número de teléfono...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '5f7bd40828994ec07fb7fad510bcee93'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_27b8419d-abe0-46e9-9ac1-5113ba6da0c0',
+  keyword: 'key_48de418e-680f-46f8-8a88-426efb7999d2',
+  answer: 'Verificando si tu usuario está registrado...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fb49625de41f962a47082e06490f6956'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573226152932@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0499458AE7DB1C8B53C',
+    participant: undefined
+  },
+  messageTimestamp: 1725890820,
+  pushName: 'Kelly Vidal',
+  broadcast: false,
+  message: Message {
+    conversation: 'veaaaa ps',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'veaaaa ps',
+  from: '573226152932'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_27b8419d-abe0-46e9-9ac1-5113ba6da0c0',
+  keyword: 'key_48de418e-680f-46f8-8a88-426efb7999d2',
+  answer: 'Verificando si tu usuario está registrado...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fb49625de41f962a47082e06490f6956'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573226152932@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E8C4C416BB0D5C5A45',
+    participant: undefined
+  },
+  messageTimestamp: 1725890821,
+  pushName: 'Kelly Vidal',
+  broadcast: false,
+  message: Message {
+    conversation: 'ajajajjaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ajajajjaja',
+  from: '573226152932'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_27b8419d-abe0-46e9-9ac1-5113ba6da0c0',
+  keyword: 'key_48de418e-680f-46f8-8a88-426efb7999d2',
+  answer: 'Verificando si tu usuario está registrado...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fb49625de41f962a47082e06490f6956'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573226152932@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D327220B0BD0C251F7',
+    participant: undefined
+  },
+  messageTimestamp: 1725890834,
+  pushName: 'Kelly Vidal',
+  broadcast: false,
+  message: Message {
+    conversation: 'ush como no voy a estar registrada',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ush como no voy a estar registrada',
+  from: '573226152932'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_27b8419d-abe0-46e9-9ac1-5113ba6da0c0',
+  keyword: 'key_48de418e-680f-46f8-8a88-426efb7999d2',
+  answer: 'Verificando si tu usuario está registrado...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fb49625de41f962a47082e06490f6956'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573226152932@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09386A2428E465715FB',
+    participant: undefined
+  },
+  messageTimestamp: 1725890841,
+  pushName: 'Kelly Vidal',
+  broadcast: false,
+  message: Message {
+    conversation: 'si soy la mejor amiga',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'si soy la mejor amiga',
+  from: '573226152932'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_27b8419d-abe0-46e9-9ac1-5113ba6da0c0',
+  keyword: 'key_48de418e-680f-46f8-8a88-426efb7999d2',
+  answer: 'Verificando si tu usuario está registrado...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fb49625de41f962a47082e06490f6956'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573226152932@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB075B0346142703E4A50',
+    participant: undefined
+  },
+  messageTimestamp: 1725890848,
+  pushName: 'Kelly Vidal',
+  broadcast: false,
+  message: Message {
+    conversation: 'jajajajaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'jajajajaja',
+  from: '573226152932'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_27b8419d-abe0-46e9-9ac1-5113ba6da0c0',
+  keyword: 'key_48de418e-680f-46f8-8a88-426efb7999d2',
+  answer: 'Verificando si tu usuario está registrado...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fb49625de41f962a47082e06490f6956'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573226152932@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06E1F9664411C85B5CB',
+    participant: undefined
+  },
+  messageTimestamp: 1725891575,
+  pushName: 'Kelly Vidal',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://web.whatsapp.net',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/12089200_487597647370935_8564734324671505035_n.enc?ccb=11-4&oh=01_Q5AaIPdayCx717qUrftoZBSQqqfi2LJJZKuTrn_pUHJZHMZ7&oe=67065264&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      firstFrameLength: 10166,
+      firstFrameSidecar: [Uint8Array],
+      isAnimated: true,
+      contextInfo: [ContextInfo],
+      stickerSentTs: [Long]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__6af27e23-e81d-4440-835d-619844863bee',
+  from: '573226152932'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_27b8419d-abe0-46e9-9ac1-5113ba6da0c0',
+  keyword: 'key_48de418e-680f-46f8-8a88-426efb7999d2',
+  answer: 'Verificando si tu usuario está registrado...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fb49625de41f962a47082e06490f6956'
 }
