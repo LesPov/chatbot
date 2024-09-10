@@ -1,4 +1,5 @@
 const { addKeyword } = require('@bot-whatsapp/bot');
+const { userPermisFlow } = require('./userPermisFlow');
 
 const menu = "Este es el menú de opciones, elige opciones 1, 2, 3, 4, 5 o 0";
 
@@ -15,7 +16,7 @@ const menuFlow = addKeyword("Menu")
         }
         switch (ctx.body) {
             case "1":
-                return gotoFlow('flowPrincipal'); // Asegúrate de que gotoFlow se devuelva
+                return gotoFlow(userPermisFlow); // Asegúrate de que gotoFlow se devuelva
             case "2":
                 return gotoFlow("menu2"); // Asegúrate de que gotoFlow se devuelva
             case "3":

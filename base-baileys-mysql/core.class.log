@@ -2,25 +2,25 @@
   key: {
     remoteJid: '573134002789@s.whatsapp.net',
     fromMe: false,
-    id: '6019F923DEF71161FC',
+    id: '2A2C3000796B09D379',
     participant: undefined
   },
-  messageTimestamp: 1725946525,
+  messageTimestamp: 1725948271,
   pushName: 'mariac19martinezp68',
   broadcast: false,
   message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'uujhh', contextInfo: [ContextInfo] },
+    extendedTextMessage: ExtendedTextMessage { text: 'his', contextInfo: [ContextInfo] },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'uujhh',
+  body: 'his',
   from: '573134002789'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_29c8ccb4-0eec-4794-ab6d-241710846705',
-  keyword: 'key_2a02c3a6-1136-452a-b047-de2ffdcd56cd',
+  ref: 'ans_b9999435-7c12-4bd6-aa26-77ff26b128b6',
+  keyword: 'key_aa567fdd-1445-4d00-821e-384a2d2ca224',
   answer: 'Verificando si tu usuario está registrado...',
   options: {
     media: null,
@@ -34,5 +34,25 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '9e89832a74001db87f951941233f297e'
+  refSerialize: 'ac63acd6c54e0a0d8451e4a25d1ed8a2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134002789@s.whatsapp.net',
+    fromMe: false,
+    id: '0078F2C0AD228EC02C',
+    participant: undefined
+  },
+  messageTimestamp: 1725948278,
+  pushName: 'mariac19martinezp68',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '1', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573134002789'
 }
